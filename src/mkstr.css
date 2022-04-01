@@ -1,0 +1,149 @@
+body
+{
+    margin-left: 45px;
+    display: flex;
+    background-image: url("images/rfi-card-image.1ed8e73d.png") ;
+    background-repeat: no-repeat;
+    background-size: 1550px ;
+    background-position: top;
+    background-position-x: -250px;
+    background-position-y: top;
+}
+
+.text
+{
+    font-family: Arial, sans-serif;
+    margin-left: 750px;
+    margin-top: -5px;
+    border: 10px ;
+    padding: 75px;
+    background-color: white;
+    height: 820px;
+    text-align: left;
+}
+
+h1
+{
+    font-size: 40px;
+    margin-top: px;
+    margin-left: -12px;
+}
+
+#tp p
+{
+    /* text-align: left; */
+    color: rgb(63, 60, 60);
+    margin-left: -12px;
+    margin-top: -27px;
+    font-size: medium;
+}
+
+.nameip
+{
+    display: flex;
+    margin-left: -18px; 
+    margin-top: -15px; 
+}
+
+.nameip input
+{
+    margin: 10px;
+    padding: 8px;
+    width: 230px;
+}
+
+.nameip b
+{
+    margin: 10px;
+}
+
+.email
+{
+    margin-top: 12px;
+    margin-left: -8px;
+    padding: 8px;
+    width: 500px;
+}
+
+.email  input
+{  
+    margin-left: -8px;
+    padding: 8px;
+    width: 500px;
+}
+
+
+.email label
+{
+    margin-left: -10px;
+
+}
+
+.Phone
+{
+    margin-top: 12px;
+    margin-left: -8px;
+    padding: 8px;
+    width: 500px;
+}
+
+.Phone  input
+{  
+    margin-left: -8px;
+    padding: 8px;
+    width: 500px;
+}
+
+
+.Phone label
+{
+    margin-left: -10px;
+
+}
+
+.Degree
+{
+    margin-top: 12px;
+    margin-left: -8px;
+    padding: 8px;
+    width: 500px;
+}
+
+.Degree  input
+{  
+    margin-left: -8px;
+    padding: 8px;
+    width: 500px;
+}
+
+
+.Degree label
+{
+    margin-left: -10px;
+}
+
+#rd
+{
+    margin-top: 15px;
+    margin-left: -14px;
+}
+
+.btm
+{
+    font-size:small;
+    margin-left: -14px;
+    color: rgb(75, 74, 74);
+}
+
+button
+{
+    margin-left: 200px;
+    margin-top: 10px;
+    padding: 10px;
+    width: 125px;
+    border: none;
+    size: 150px;
+    border-radius: 5px;
+    color: white;
+    background-color: rgb(9, 87, 9);
+} 

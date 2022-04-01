@@ -1,0 +1,11 @@
+.main
+{
+    position: absolute;
+    left: 50px;
+}
+
+span
+{
+    color: rgb(27, 166, 253);
+    margin-left: 10px;
+}

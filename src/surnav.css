@@ -1,0 +1,85 @@
+
+
+.submain
+{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.submain div{
+    margin-top: 15px;
+}
+
+/* button
+{
+    background-color: rgb(27, 111, 206);
+    color: white;
+    border: none;
+    border-radius: 3px;
+    padding: 5px;
+    margin: 5px;
+    width: 65px;
+
+} */
+
+input
+{
+    border-radius: 3px;
+    padding: 5px;
+    width: 250px;
+}
+
+.social img
+{
+    border: solid;
+    height: 30px;
+    width: 25px;
+    padding: 8px;
+    margin: 2px;
+}
+
+
+.pay
+{
+    background-color:black;
+    color: white;
+    padding-left: 160px;
+
+}
+
+.pay b
+{
+    background-color: black;
+    color: white;
+    
+}
+
+.pay img
+{
+    border: solid;
+    height: 12px;
+    width: 18px;
+    padding: 8px;
+    margin: 2px;
+}
+
+.bott 
+{
+    color: white;
+    text-align: center;
+    padding: 5px;
+
+}
+
+.img1 img
+{
+    width: 18px;
+    margin-top: -18px;
+}
+
+.num
+{
+    margin-left: -120px;
+}

@@ -1,0 +1,77 @@
+{
+  "series": [
+    {
+      "title": "Family Man",
+      "genre": "suspense",
+      "quote": "Don't be a minmum guy",
+      "language": "Hindi",
+      "id": 1
+    },
+    {
+      "title": "Friends",
+      "genre": "comedy",
+      "quote": "We were on a break",
+      "language": "English",
+      "id": 2
+    },
+    {
+      "title": "Game of thrones",
+      "genre": "Historical Thriller",
+      "quote": "Winter is coming",
+      "language": "English",
+      "id": 3
+    },
+    {
+      "title": "SCAM 1992",
+      "genre": "scam",
+      "quote": "Risk hai toh ishk hai",
+      "language": "Spanish",
+      "id": 4
+    },
+    {
+      "title": "Mirzapur",
+      "genre": "Thriller",
+      "quote": "Risk hai",
+      "language": "Hindi",
+      "id": 5
+    },
+    {
+      "title": "dmgm",
+      "gener": "kjfmd",
+      "Famousquote": " cx,mv",
+      "Hero": "lmdlf",
+      "Language": ",mslsa",
+      "id": 10
+    },
+    {
+      "title": "RRRRRR",
+      "gener": "GGGGGG",
+      "Famousquote": "FFFFF",
+      "Hero": "HHHH",
+      "Language": "LLLLL",
+      "id": 11
+    },
+    {
+      "title": "kkkkkkkkkkkkkkk",
+      "Gener": "mmmmmmmmmmmm",
+      "Famousquote": "aaaaaaaaaa",
+      "Hero": "qqqqqqqqqq",
+      "Language": "vvvvvvv",
+      "id": 12
+    },
+    {
+      "Gener": "211222",
+      "Famousquote": "666666",
+      "Hero": "4444",
+      "Language": "5555"
+    },
+    {
+      "title": "kdfkf",
+      "producer": "d,mfm",
+      "Budget": ",dmfg ",
+      "Hero": ",dfmg/.",
+      "Language": "d,f,/",
+      "id": 13
+    }
+  ]
+}

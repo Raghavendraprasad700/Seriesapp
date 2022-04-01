@@ -1,0 +1,30 @@
+.green
+{
+    display: flex;
+    background-color: #1f3933;
+    align-items: center;
+    height: 530px;
+}
+
+.green img
+{
+    padding-left: 300px;
+    padding-top: 50px;
+}
+.text
+{
+    padding-left: 300px;
+}
+
+h1
+{
+    color: white;
+    height: 120px;
+    font-size:50px;
+}
+
+p
+{
+    color: white;
+    justify-content: space-around;
+}

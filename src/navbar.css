@@ -1,0 +1,107 @@
+
+.nav{
+    align-items: center;
+    display: flex;
+    color: rgb(29, 32, 46);
+    justify-content: space-around;
+    background-color: rgb(222, 235, 247);
+    
+
+}
+
+.navlinks li
+{
+    display: inline-block;
+    text-decoration: none;
+   
+    
+}
+
+.navlinks a img
+{
+    text-decoration: none;
+      padding:15px 20px;
+   font-weight: bold;
+   max-width: 30px;
+
+}
+
+.Series .description
+{
+    display:flex;
+    align-items: center;
+    justify-content: space-around;
+    font-family: Poppins;
+    font-size: large;
+    margin-left: 220px;
+    
+}
+
+
+.Series .description img{
+    max-width: 200px;
+    
+    
+}
+
+.Series .description p{
+    margin-left: 5%;
+    letter-spacing: 1px;
+}
+
+.footer
+{
+    background-color: rgb(204, 208, 211);
+    align-items: center;
+    margin-bottom: 0px;
+    padding: 10px;
+    text-align: center;
+    font-family: sans-serif;
+    font-size:small;
+   
+    
+}
+
+.footer li {
+    list-style: none;
+    display: inline-flex;
+    padding: 20px;
+    justify-content: center;
+    
+}
+.footer li a {
+    text-decoration: none;
+    color: black;
+    
+    
+}
+.popularSeries{
+    display:flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+
+.Series{
+    margin: 0px 40px;
+    }
+
+.popularSeries img:hover{
+transform: scale(1.05);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

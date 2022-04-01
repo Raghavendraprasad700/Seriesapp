@@ -1,0 +1,24 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+
+.main1
+{
+    background-color: rgb(113, 224, 187);
+    margin: 5px 50px;
+    padding: 25px;
+    border: solid 5px;
+}
+
+.main1 h1
+{
+    text-align: center;
+}
+
+.list
+{
+    padding: 5px;
+    text-align: center;
+}

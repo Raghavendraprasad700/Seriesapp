@@ -1,0 +1,41 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+
+li
+{
+    list-style: none;
+}
+
+.navdata
+{
+    display: flex;
+    background-color: rgb(216, 216, 245);
+    padding: 20px;
+    align-items: center ;
+}
+
+.Main
+{
+   margin-left: 10px;
+}
+
+ul
+{
+    display: flex;
+    margin-left: 900px;
+}
+
+img
+{
+    width: 30px;
+    padding: 20px;  
+}
+
+.input
+{
+    margin-left: 80px;
+    border-style: hidden;
+}

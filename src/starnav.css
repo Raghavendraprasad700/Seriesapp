@@ -1,0 +1,49 @@
+.nav
+{
+    display: flex ;
+    margin-top: 27px;
+}
+
+.nav ul li
+{
+    display: inline-block;
+    margin-right: 37px;
+}
+
+.nav button
+{
+    border:none;
+    border-radius: 20px;
+    padding: 10px;
+    margin-right: 10px;
+}
+
+.nav a
+{
+    margin-left: 10px ;
+    margin-top: 25px;
+    color: rgb(42, 165, 165);
+    list-style:none;
+}
+
+.logo img
+{
+    margin-left: 180px;
+    width: 17.5vw;
+
+}
+
+.bt1
+{
+    background-color: black;
+    color: white
+        
+}
+
+.bt2 
+{
+    background-color: rgb(243, 198, 85);
+    color: black;
+        
+}
+
